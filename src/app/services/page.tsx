@@ -105,7 +105,7 @@ export default function ServicesPage() {
                         })}
                     </div>
                 </div>
-            </section>
+            </section >
 
             <section id="cybersecurity" className="section-padding bg-navy-50">
                 <div className="container-custom">
@@ -127,8 +127,8 @@ export default function ServicesPage() {
                                 <Link
                                     href={`/services/${pkg.slug}`}
                                     className={`block h-full rounded-xl p-8 transition-all group ${pkg.highlight
-                                            ? 'bg-navy-900 text-white border-2 border-gold-500 hover:border-gold-400'
-                                            : 'bg-white border border-navy-100 hover:border-gold-300 hover:shadow-lg'
+                                        ? 'bg-navy-900 text-white border-2 border-gold-500 hover:border-gold-400'
+                                        : 'bg-white border border-navy-100 hover:border-gold-300 hover:shadow-lg'
                                         }`}
                                 >
                                     <div className="flex items-center gap-4 mb-4">
