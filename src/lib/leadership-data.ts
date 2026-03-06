@@ -35,7 +35,7 @@ export const coreLeadership: LeaderProfile[] = [
         fullBio: [
             'Julia Valentine is the Co-Founder of Devasini Family Office, bringing deep expertise in family office operations and institutional client relationships.',
             'Her understanding of client needs shapes the firm\'s service delivery approach, ensuring that every engagement is tailored to the unique requirements of each family.',
-            'Julia has been instrumental in building the firm\'s reputation for discretion, excellence, and personalized service.',
+            'Julia has been instrumental in building the firm\'s reputation for discretion, excellence and personalized service.',
         ],
         expertise: ['Family Office Operations', 'Client Relations', 'Service Excellence', 'Strategic Planning'],
         image: '/juliavalentine.webp',
